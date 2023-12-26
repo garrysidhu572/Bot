@@ -1,7 +1,9 @@
 SDCL CC Checker Bot
+
 A Telegram CC Checker Bot with hella lotta features.
 
 🚀 Features
+
 Admin Panel
 
 Ban a user
@@ -13,7 +15,9 @@ Check CC Checker stats of a user
 Anti-Spam System
 
 Users have to wait a certain amount of time before performing the next task
+
 You can customize the time in config/config.php
+
 Checker Stats System
 
 Number of Live and Dead CC Checked by a User, and All users will be Visible
@@ -31,7 +35,9 @@ Number of Live and Dead CC Checked by a User, and All users will be Visible
 Stripe Merchant [User]
 
 Users can add their own SK Key and check CCs with the added SK Key
+
 🛠 Commands
+
 💳 CC Checker
 
 /ss | !ss - Stripe [Auth]
@@ -51,5 +57,6 @@ Users can add their own SK Key and check CCs with the added SK Key
 SOON UPDATING
 
 🎯 Author
-@PUNJAB_BUY
+https://t.me/PUNJAB_BUY
+
 MY BOT :- https://t.me/SDCL_Bot
