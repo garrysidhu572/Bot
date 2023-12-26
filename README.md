@@ -41,11 +41,16 @@ Users can add their own SK Key and check CCs with the added SK Key
 💳 CC Checker
 
 /ss | !ss - Stripe [Auth]
+
 /sm | !sm - Stripe [Merchant]
+
 /schk | !schk - User Stripe Merchant [Needs SK]
 
+
 /apikey sk_live_xxx - Add SK Key for /schk gate
+
 /myapikey | !myapikey - View the added SK Key for /schk gate
+
 📡 Other Commands
 
 /me | !me - User's Info
